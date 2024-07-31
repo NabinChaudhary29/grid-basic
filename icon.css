@@ -12,6 +12,10 @@
 .icon{
     padding-right: 20px !important;
 }
+.logo{
+    width: 20px;
+    padding: 0px;
+}
 .nav-bar{
     align-items: center;
     background-color: blue;
